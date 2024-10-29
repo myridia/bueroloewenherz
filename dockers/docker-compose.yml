@@ -1,0 +1,10 @@
+version: '3'
+services:
+  buero_nginx:
+    container_name: buero_nginx
+    image: nginx
+    ports:
+        - "80:80" 
+    volumes:
+      - ../public/:/usr/share/nginx/html/
+    tty: true
