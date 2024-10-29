@@ -24,12 +24,12 @@ if (!self.__WB_pmw) {
      */
     if (!window.Typekit) window.Typekit = {};
     window.Typekit.config = {
-        "f": "//web.archive.org/web/20210304182123/https://webfonts.creativecloud.com/c/a8f20a/1w;open-sans,2,VvF:W:n3,VvH:W:n4,Vv8:W:n7/{format}{/extras*}",
+        "f": "https://fonts.cdnfonts.com/css/open-sans",
         "fi": [14546, 14541, 14548],
         "fn": ["open-sans", ["n3", "n4", "n7"]],
         "ht": "tk",
         "js": "1.14.9",
-        "p": "//web.archive.org/web/20210304182123/https://p.typekit.net/p.gif?s=4&h={host}&f=14546.14541.14548&app={app}&_={_}",
+        "p": "/images/p.gif",
         "ps": 4
     };;
     (function(window, document, undefined) {
