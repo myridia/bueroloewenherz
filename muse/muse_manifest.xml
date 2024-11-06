@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bueroloewenherz.com" resolutions="1x,2x" timestamp="1730815893143">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-musters.css" crc="130595187" ref="index:datenschutz"/>
+    <file name="nomq_preview_master_a-musters.css" crc="3824530138" ref="index:datenschutz"/>
+    <file name="index.css" crc="261881321" ref="index"/>
+    <file name="nomq_index.css" crc="377366820" ref="index"/>
+    <file name="datenschutz.css" crc="4164459024" ref="datenschutz"/>
+    <file name="nomq_datenschutz.css" crc="165456614" ref="datenschutz"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:datenschutz"/>
+    <file name="museutils.js" crc="3939489907" ref="index:datenschutz"/>
+    <file name="whatinput.js" crc="86476730" ref="index:datenschutz"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:datenschutz"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:datenschutz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:datenschutz"/>
+    <file name="webpro.js" crc="3856315280" ref="index:datenschutz"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:datenschutz"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:datenschutz"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:datenschutz"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:datenschutz"/>
+    <file name="require.js" crc="4177726516" ref="index:datenschutz"/>
+  </folder>
+  <folder name="images">
+    <file name="loewenherz_hero_2.jpg" crc="3856093891" ref="index:datenschutz"/>
+    <file name="loading.gif" crc="3815509949" ref="index:datenschutz"/>
+    <file name="uc_1.svg" crc="3941174603" ref="index:datenschutz"/>
+    <file name="uc_1_poster_u3781.png" crc="468480542" ref="index:datenschutz"/>
+    <file name="loewenherz_logo_white_1.svg" crc="4207167441" ref="index"/>
+    <file name="loewenherz_logo_white_1_poster_u3565.png" crc="316407783" ref="index"/>
+    <file name="dreieck_1.svg" crc="388629630" ref="index"/>
+    <file name="dreieck_1_poster_u4657.png" crc="297965855" ref="index"/>
+    <file name="loewenherz_hero_2-u371-fr.jpg" crc="4093328494" ref="index:datenschutz"/>
+    <file name="loewenherz_hero_2-u371-fr_2x.jpg" crc="4155494428" ref="index:datenschutz"/>
+  </folder>
+  <file name="index.html" crc="155354916" seo="true" mt="1730815400545" redirect="true"/>
+  <file name="datenschutz.html" crc="35986984" seo="true" mt="1730815400545" redirect="true"/>
+</manifest>
